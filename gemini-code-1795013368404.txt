@@ -1,0 +1,17 @@
+MyCalendar/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── app/
+│   ├── build.gradle.kts
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           └── java/
+│               └── com/
+│                   └── example/
+│                       └── mycalendar/
+│                           └── MainActivity.kt
+├── build.gradle.kts
+├── gradle.properties
+└── settings.gradle.kts
